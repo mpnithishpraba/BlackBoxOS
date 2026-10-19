@@ -89,10 +89,10 @@ This architecture provides a practical balance between direct kernel subsystem c
 │  Filesystems · Security · Timers · IPC       │
 ├──────────────────────────────────────────────┤
 │          DEVICE AND I/O SUBSYSTEMS           │
-│   Storage · Input · Display · Networking      │
+│   Storage · Input · Display · Networking     │
 ├──────────────────────────────────────────────┤
-│          ARCHITECTURE AND BOOT                │
-│       UEFI · CPU Initialization · x86-64      │
+│          ARCHITECTURE AND BOOT               │
+│       UEFI · CPU Initialization · x86-64     │
 ├──────────────────────────────────────────────┤
 │                  HARDWARE                    │
 │             CPU · RAM · Devices              │
