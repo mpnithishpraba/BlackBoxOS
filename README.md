@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/LOGO.jpeg" alt="BlackBoxOS Logo" width="400">
+</p>
+
 # BlackBoxOS
 
 ### A Lightweight, Performance-Driven 64-Bit Operating System Built with C and Rust
